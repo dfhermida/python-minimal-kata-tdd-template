@@ -1,4 +1,4 @@
-class Greeter():
+class Greeter:
     """
     Example class
     """
