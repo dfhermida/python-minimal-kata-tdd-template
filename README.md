@@ -1,4 +1,4 @@
-# PYTHON-TDD-TEMPLATE
+# PYTHON-MINIMAL-KATA-TDD-TEMPLATE
 
 This template can be used as starting point in basic TDD katas to be solved in python.
 
